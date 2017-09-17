@@ -1,6 +1,5 @@
 body {
 	background-image: url("../images/brushed.png");
-
 }
 
 h1 {
@@ -29,7 +28,7 @@ h3 {
 	padding-bottom: 5px;
 	border-bottom: 2px solid;
 	border-color: #cccccc;
-	font-size: 27px;
+	font-size: 24px;
 
 }
 
@@ -87,16 +86,6 @@ li a:hover{
 	color: white;
 }
 
-#main-bio {
-	clear: both;
-	background-color: #ffffff;
-	padding: 20px;
-	width: 650px;
-	border: 1px solid;
-	border-color: #cccccc;
-	float: left;
-}
-
 .main-block {
 	clear: both;
 	width: 650px;
@@ -115,7 +104,7 @@ li a:hover{
 .connect {
 	background-color: #ffffff;
 	padding: 20px;
-	width: 205px;
+	width: 270px;
 	margin-left: 10px;
 	border: 1px solid;
 	border-color: #cccccc;
@@ -182,7 +171,7 @@ span {
 	width: 200px;
 	height: 50px;
 	bottom: 25px;
-	left: 5px;
+	left: 10px;
 	background: #4aaaa5;
 	
 	
@@ -193,4 +182,18 @@ span {
 	font-size: 20px;
 	text-align: center;
 	color: #ffffff;
+}
+
+.icontub {
+	margin: 0 auto;
+	padding-left: 20px;
+}
+
+img {
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+.wrapper {
+	margin-bottom: 200px;
 }
