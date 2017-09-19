@@ -1,5 +1,6 @@
 body {
 	background-image: url("../images/brushed.png");
+	margin: 0;
 }
 
 h1 {
@@ -7,7 +8,7 @@ h1 {
 	color: #ffffff;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	padding: 20px;
-	width: 210px;
+	width: 178px;
 	height: 36px;
 	float: left;
 	margin: 0;
@@ -25,6 +26,7 @@ h2 {
 
 h3 {
 	color: #4aaaa5;
+	padding-top: 10px;
 	padding-bottom: 5px;
 	border-bottom: 2px solid;
 	border-color: #cccccc;
@@ -103,7 +105,7 @@ li a:hover{
 
 .connect {
 	background-color: #ffffff;
-	padding: 20px;
+	padding: 5px 10px 10px 10px;
 	width: 270px;
 	margin-left: 10px;
 	border: 1px solid;
@@ -186,7 +188,7 @@ span {
 
 .icontub {
 	margin: 0 auto;
-	padding-left: 20px;
+	padding: 20px;
 }
 
 img {
